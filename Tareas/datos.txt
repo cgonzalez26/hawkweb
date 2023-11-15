@@ -1,0 +1,17 @@
+Requerimientos:
+1-La pagina de home seria lo mismo que la del html (Si consideras que se puede agregar cualquier cosa o cambiar algo solo avisame)
+2-La parte de contacto seria un form para que envie los emails al correo
+3-Shop seria un shop de alguna plantilla (Puedo pasarte la plantilla si lo necesitas)
+4-Un lugar de about donde sea para que las personas conozcan la empresa
+
+(No se que tan viable seria agregar una parte como portofolio ya que es una tematica formal ya eso me lo dirias tu como lo ves mejor)
+Hola
+Aqui lo copie de notion y lo pegue aca para mas comodidad para ti
+Ya como vaya el trabajo y demas comenzamos con otra web que tengo que elaborar, aun estoy esperando los detalles de parte de las personas, para anotarlos y mostrartelos mientras trabajamos con la websites mia
+
+theme wordpress:
+https://zakratheme.com/demos/#/preview/zakra-agency-03
+
+usuario cpanel
+user: hawkweb
+pw: hawk@23&35
